@@ -51,7 +51,7 @@ const navigationItems = [
   { id: '1', title: 'Home' },
   { id: '2', title: 'Profile' },
   { id: '3', title: 'Fonts' },
-  { id: '4', title: 'About' },
+  { id: '4', title: 'DatePicker' },
   { id: '5', title: 'Camera'}
 ];
 

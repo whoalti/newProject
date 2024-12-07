@@ -30,7 +30,7 @@ function App(): React.JSX.Element {
 
   useEffect(() => {
     if (Platform.OS === 'android'){
-    SplashScreen.hide();
+      SplashScreen.hide();
 
     }
   }, [])
